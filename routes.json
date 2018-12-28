@@ -1,0 +1,13 @@
+{
+  "middleware": [],
+  "routes": {
+    "Homepage": {
+      "path": "/",
+      "page": "pages/hello-world.js"
+    },
+    "GoogleMapsPage": {
+      "path": "/google-maps",
+      "page": "pages/google-maps.js"
+    }
+  }
+}
